@@ -11,4 +11,9 @@ void GetData()
 	 cout << "Nikitina O.V. RI-541216 " << endl;
 
 }
+void GetSurname()
+{
+	cout << "Nikitina" << endl;
+
+}
 
