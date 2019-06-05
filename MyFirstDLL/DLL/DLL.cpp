@@ -16,9 +16,15 @@ void GetSurname()
 	cout << "Nikitina" << endl;
 
 }
+void GetName()
+{
+	cout << "Olga" << endl;
+
+}
 void GetGroup()
 {
 	cout << "RI-541216" << endl;
 
 }
+
 
